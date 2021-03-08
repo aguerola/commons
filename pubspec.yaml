@@ -23,7 +23,7 @@ dependencies:
   time: ^1.2.0
   intl: ^0.16.1
   data_connection_checker: ^0.3.4
-  http: ^0.12.1
+  http: ^0.13.0-nullsafety.0
 
 dev_dependencies:
   flutter_test:
